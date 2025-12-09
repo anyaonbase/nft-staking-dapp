@@ -5,8 +5,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "thirdweb": "^5.0.0",
-    "ethers": "^6.0.0"
+    "thirdweb": "^5.11.1",
+    "ethers": "^6.8.0",
+    "qr": "^1.5.0",
+    "@walletconnect/ethereum-provider": "^2.26.0"
   },
   "scripts": {
     "start": "react-scripts start",
