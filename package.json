@@ -8,7 +8,7 @@
     "thirdweb": "^5.11.1",
     "ethers": "^6.8.0",
     "qr": "^1.5.0",
-    "@walletconnect/ethereum-provider": "^2.26.0"
+    "@walletconnect/ethereum-provider": "^2.23.0"
   },
   "scripts": {
     "start": "react-scripts start",
