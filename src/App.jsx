@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { ThirdwebProvider, useAddress, ConnectWallet, useContract, Web3Button } from "@thirdweb-dev/react";
+import { ThirdwebProvider, useAddress, ConnectWallet, useContract, Web3Button } from "thirdweb/react";
 import { contractAddresses } from "./config";
 
 function App() {
